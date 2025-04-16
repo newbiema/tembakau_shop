@@ -40,7 +40,7 @@
             @yield('content')
 
             <div class="simple-footer">
-              Copyright &copy; Nama Mahasiswa 2025
+              Copyright &copy; CuyTembakau
             </div>
           </div>
         </div>

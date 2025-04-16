@@ -51,7 +51,7 @@
       </div>
       <footer class="main-footer">
         <div class="footer-left">
-          Copyright &copy; 2025 Nama Mahasiswa
+          Copyright &copy; 2025 CuyTembakau
         </div>
         <div class="footer-right">
           
